@@ -11,7 +11,7 @@ The first step sets up the environment that we would like you to use to solve th
 
 **1. Install Anaconda and Launch Jupyter Notebook**
 
-If you do not already have Anaconda download and install it (https://www.continuum.io/downloads). Launch a Jupyter Notebook (either from Anaconda Navigator if you have it installed or from the terminal or command prompt with the command jupyter notebook). Create a new notebook which you will use for this task. You will submit this notebook as your solution after completing the task. You can add any notes and assumptions to this notebook.
+If you do not already have Anaconda download and install it (https://docs.anaconda.com/free/anaconda/install/index.html). Launch a Jupyter Notebook (either from Anaconda Navigator if you have it installed or from the terminal or command prompt with the command jupyter notebook). Create a new notebook which you will use for this task. You will submit this notebook as your solution after completing the task. You can add any notes and assumptions to this notebook.
 
 
 **2. Load the data and explore relationships**
