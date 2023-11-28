@@ -73,4 +73,4 @@ You can verify that this total repayment amount roughly reflects the average def
 
 ### Submission
 
-Download your notebook (or simply find the .ipynb file it on your file system). Submit your notebook back in an email. Do not fork the repository, please - don't want others to copy you're beautiful work.
+Download your notebook (or simply find the .ipynb file it on your file system). Submit your notebook back in an email. Do not fork the repository, please - don't want others to copy your beautiful work.
